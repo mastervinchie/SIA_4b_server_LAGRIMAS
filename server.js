@@ -19,7 +19,7 @@ app.get(`/`,(req, res) => {
                     }
                     h1{
                         color:red;
-                        font-size: 50px;
+                        font-size: 40px;
                     }
                     div{
                         display: flex;
